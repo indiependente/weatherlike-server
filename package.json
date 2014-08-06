@@ -1,0 +1,32 @@
+{
+  "name": "weatherlike-server",
+  "version": "0.0.1",
+  "description": "REST JSON API Weather Forecast Server using weatherlike",
+  "main": "server.js",
+  "dependencies": {
+    "weatherlike": "^0.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server.js 8000",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/indiependente/weatherlike-server.git"
+  },
+  "keywords": [
+    "node",
+    "rest",
+    "json",
+    "weather",
+    "forecast",
+    "server"
+  ],
+  "author": "indiependente",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indiependente/weatherlike-server/issues"
+  },
+  "homepage": "https://github.com/indiependente/weatherlike-server"
+}
